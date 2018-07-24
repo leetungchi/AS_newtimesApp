@@ -1,0 +1,50 @@
+[PropertyInfo]
+blueBkgWhiteCharLabel1,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+blueBkgWhiteCharLabel2,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+blueBkgWhiteCharLabel3,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+border1,Border,false,false, , ,false,<default>
+btnExit,JButton,false,false, , ,false,<default>
+btnQry,JButton,false,false, , ,false,<default>
+cbxBuyerMakerType,JComboBox,false,false, , ,false,<default>
+cbxDep,JComboBox,false,false, , ,false,<default>
+cbxFactory,JComboBox,false,false, , ,false,<default>
+cbxMerchId,JComboBox,false,false, , ,false,<default>
+cbxType,JComboBox,false,false, , ,false,<default>
+dbCbxDep,exgui.DataBindJCombobox,false,false, , ,false,<default>
+DbJcbxcbxFactory,exgui.DataBindEditableJCombobox,false,false, , ,false,<default>
+DbJcbxcbxMerchID,exgui.DataBindJCombobox,false,false, , ,false,<default>
+DbJcbxcbxType,exgui.DataBindJCombobox,false,false, , ,false,<default>
+DrCrType,exgui.ultratable.Wraper4tblCbx[],false,false, , ,false,<default>
+DrCrTypeString,String[],false,false, , ,false,<default>
+DrCrTypeValue,String[],false,false, , ,false,<default>
+init_now,boolean,false,false, , ,false,<default>
+lblCenter1,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblCenter2,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblCenter3,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblCenter4,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblCenter5,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblCenter6,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblCenter7,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblCenter8,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblDBNO1,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+lblDBNO2,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+lblMerchName,JLabel,false,false, , ,false,<default>
+PAYDTL_QTY_CONDITION_BGN_DBCRNO,String,false,false, , ,false,<default>
+PAYDTL_QTY_CONDITION_TEMP_DBCRNO,String,false,false, , ,false,<default>
+payDtlConditionList,java.util.List,false,false, , ,false,<default>
+PnlQryDbCrNoDtlConditions,JPanel,false,false, , ,false,<default>
+selectBuyerMaker,SelectBuyerMaker,false,false, , ,false,<default>
+txtDateFrom,JTextField,false,false, , ,false,<default>
+txtDateTo,JTextField,false,false, , ,false,<default>
+txtDbCrNo,JTextField,false,false, , ,false,<default>
+txtFtyInv,JTextField,false,false, , ,false,<default>
+txtMerchRef,JTextField,false,false, , ,false,<default>
+txtRcptNo,JTextField,false,false, , ,false,<default>
+txtTmpDbCrNo,JTextField,false,false, , ,false,<default>
+txtVcNo,JTextField,false,false, , ,false,<default>
+whiteBkgBlueCharLabel1,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,25 @@
+[PropertyInfo]
+blueBkgWhiteCharLabel1,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+border1,Border,false,false, , ,false,<default>
+btnQry,JButton,false,false, , ,false,<default>
+cbxDep,JComboBox[],false,false, , ,false,<default>
+dbCbxDep,exgui.DataBindJCombobox[],false,false, , ,false,<default>
+dbHkdChg,DataBindTextWithChecker,false,false, , ,false,<default>
+dbRmbChg,DataBindTextWithChecker,false,false, , ,false,<default>
+dbTwdChg,DataBindTextWithChecker,false,false, , ,false,<default>
+jLabel1,JLabel,false,false, , ,false,<default>
+jLabel2,JLabel,false,false, , ,false,<default>
+pnlDeps,JPanel,false,false, , ,false,<default>
+titledBorder1,TitledBorder,false,false, , ,false,<default>
+txtHkdUsd,JTextField,false,false, , ,false,<default>
+txtMonth,JTextField,false,false, , ,false,<default>
+txtRmbUsd,JTextField,false,false, , ,false,<default>
+txtTitle,JTextField,false,false, , ,false,<default>
+txtTwdUsd,JTextField,false,false, , ,false,<default>
+txtYear,JTextField,false,false, , ,false,<default>
+whiteBkgBlueCharLabel1,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,29 @@
+[PropertyInfo]
+blueBkgWhiteCharLabel1,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+btnExit,JButton,false,false, , ,false,<default>
+btnUpdate,JButton,false,false, , ,false,<default>
+cbxCountry,JComboBox,false,false, , ,false,<default>
+cbxDep,JComboBox,false,false, , ,false,<default>
+jLabel1,JLabel,false,false, , ,false,<default>
+jLabel10,JLabel,false,false, , ,false,<default>
+jLabel11,JLabel,false,false, , ,false,<default>
+jLabel12,JLabel,false,false, , ,false,<default>
+jLabel13,JLabel,false,false, , ,false,<default>
+jLabel14,JLabel,false,false, , ,false,<default>
+jLabel15,JLabel,false,false, , ,false,<default>
+jLabel2,JLabel,false,false, , ,false,<default>
+jLabel3,JLabel,false,false, , ,false,<default>
+jLabel4,JLabel,false,false, , ,false,<default>
+jLabel5,JLabel,false,false, , ,false,<default>
+jLabel6,JLabel,false,false, , ,false,<default>
+jLabel7,JLabel,false,false, , ,false,<default>
+jLabel8,JLabel,false,false, , ,false,<default>
+jLabel9,JLabel,false,false, , ,false,<default>
+txtDate,JTextField,false,false, , ,false,<default>
+txtDrCrNo,JTextField,false,false, , ,false,<default>
+txtFields,JTextField[],false,false, , ,false,<default>
+[IconNames]
+
+
+
+

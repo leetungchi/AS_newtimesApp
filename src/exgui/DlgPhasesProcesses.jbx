@@ -1,0 +1,23 @@
+[PropertyInfo]
+activating,boolean,false,false, , ,false,<default>
+blueBkgWhiteCharLabel1,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+borderLayout1,BorderLayout,false,false, , ,false,<default>
+borderLayout2,BorderLayout,false,false, , ,false,<default>
+borderLayout3,BorderLayout,false,false, , ,false,<default>
+btnOK,JButton,false,false, , ,false,<default>
+jLabel1,JLabel,false,false, , ,false,<default>
+jLabel2,JLabel,false,false, , ,false,<default>
+jPanel1,JPanel,false,false, , ,false,<default>
+jPanel2,JPanel,false,false, , ,false,<default>
+jPanel3,JPanel,false,false, , ,false,<default>
+lbl2PutImg,JLabel,false,false, , ,false,<default>
+lblMsgLable,JLabel,false,false, , ,false,<default>
+message,String,false,false, , ,true,<default>
+panel1,JPanel,false,false, , ,false,<default>
+toRunnable,boolean,false,false, , ,false,<default>
+visible,boolean,false,false, , ,true,<default>
+[IconNames]
+
+
+
+

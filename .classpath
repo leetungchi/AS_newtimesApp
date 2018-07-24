@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/acrobat.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/acrobat-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/alloy.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/csvjdbc.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/ftpbean.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/infor_mdl.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/JavaClientSwing.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/javacsv.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/ojdbc14.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/weblogic"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/newtimesejb.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/newtimesejb_basic.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_151"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/VAqua5.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/quaqua.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/weblaf-complete-1.29.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/pgslookandfeel-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/App_newtimes/ext/JTattoo-1.6.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

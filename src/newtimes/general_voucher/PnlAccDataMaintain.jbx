@@ -1,0 +1,10 @@
+[PropertyInfo]
+blueBkgWhiteCharLabel1,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+btnCommonTermMtn,JButton,false,false, , ,false,<default>
+btnDailyVoucher,JButton,false,false, , ,false,<default>
+btnExit,JButton,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

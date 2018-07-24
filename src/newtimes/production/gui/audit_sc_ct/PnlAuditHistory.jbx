@@ -1,0 +1,14 @@
+[PropertyInfo]
+blueBkgWhiteCharLabel1,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+btnConfirmOK,JButton,false,false, , ,false,<default>
+btnReject,JButton,false,false, , ,false,<default>
+dbHandler,newtimes.production.process.audit_sc_ct.DB_ProdAudits,false,false, , ,false,<default>
+jLabel1,JLabel,false,false, , ,false,<default>
+jScrollPane1,JScrollPane,false,false, , ,false,<default>
+jTextArea1,JTextArea,false,false, , ,false,<default>
+pnlPagedData,exgui.ultratable.PagedTablePanel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

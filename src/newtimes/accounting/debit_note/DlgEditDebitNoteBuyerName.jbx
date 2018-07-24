@@ -1,0 +1,16 @@
+[PropertyInfo]
+btnDELETE,JButton,false,false, , ,false,<default>
+btnExit,JButton,false,false, , ,false,<default>
+btnOk,JButton,false,false, , ,false,<default>
+panel1,JPanel,false,false, , ,false,<default>
+pnlParent,PnlListDebitNoteBuyerName,false,false, , ,false,<default>
+recEDIT,Record,false,false, , ,false,<default>
+slkBuyer,SelectBuyerMaker,false,false, , ,false,<default>
+txtDbBymkrName,JTextField,false,false, , ,false,<default>
+whiteBkgBlueCharLabel1,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+whiteBkgBlueCharLabel2,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

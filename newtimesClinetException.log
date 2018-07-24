@@ -1,0 +1,636 @@
+2018/02/26 14:38:50---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:34)
+	at newtimes.DefinesEJBs.setEJBs(DefinesEJBs.java:21)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:191)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 10 more
+
+server atlee.nttpe.com.tw ejbHomeName:BasicMdlEJBs.BasicBaseEJB.BasicBaseEJB
+
+
+2018/02/26 14:38:52---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:42)
+	at newtimes.DefinesEJBs.setEJBs(DefinesEJBs.java:21)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:191)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 10 more
+
+server atlee.nttpe.com.tw ejbHomeName:BasicMdlEJBs.BasicBaseEJB.BasicBaseEJB
+
+
+2018/02/26 14:38:57---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:34)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:199)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 9 more
+
+server atlee.nttpe.com.tw ejbHomeName:newtimesejb.TPE_MIS.TpeMisFunc
+
+
+2018/02/26 14:39:00---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:42)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:199)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 9 more
+
+server atlee.nttpe.com.tw ejbHomeName:newtimesejb.TPE_MIS.TpeMisFunc
+
+
+2018/02/26 14:39:25---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:34)
+	at newtimes.DefinesEJBs.setEJBs(DefinesEJBs.java:21)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:191)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 10 more
+
+server atlee.nttpe.com.tw ejbHomeName:BasicMdlEJBs.BasicBaseEJB.BasicBaseEJB
+
+
+2018/02/26 14:39:27---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:42)
+	at newtimes.DefinesEJBs.setEJBs(DefinesEJBs.java:21)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:191)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 10 more
+
+server atlee.nttpe.com.tw ejbHomeName:BasicMdlEJBs.BasicBaseEJB.BasicBaseEJB
+
+
+2018/02/26 14:39:32---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:34)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:199)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 9 more
+
+server atlee.nttpe.com.tw ejbHomeName:newtimesejb.TPE_MIS.TpeMisFunc
+
+
+2018/02/26 14:39:34---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:42)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:199)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 9 more
+
+server atlee.nttpe.com.tw ejbHomeName:newtimesejb.TPE_MIS.TpeMisFunc
+
+
+2018/02/26 14:41:24---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:34)
+	at newtimes.DefinesEJBs.setEJBs(DefinesEJBs.java:21)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:191)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 10 more
+
+server atlee.nttpe.com.tw ejbHomeName:BasicMdlEJBs.BasicBaseEJB.BasicBaseEJB
+
+
+2018/02/26 14:41:27---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:42)
+	at newtimes.DefinesEJBs.setEJBs(DefinesEJBs.java:21)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:191)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 10 more
+
+server atlee.nttpe.com.tw ejbHomeName:BasicMdlEJBs.BasicBaseEJB.BasicBaseEJB
+
+
+2018/02/26 14:41:32---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:34)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:199)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 9 more
+
+server atlee.nttpe.com.tw ejbHomeName:newtimesejb.TPE_MIS.TpeMisFunc
+
+
+2018/02/26 14:41:35---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:42)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:199)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 9 more
+
+server atlee.nttpe.com.tw ejbHomeName:newtimesejb.TPE_MIS.TpeMisFunc
+
+
+2018/02/26 14:41:54---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:34)
+	at newtimes.DefinesEJBs.setEJBs(DefinesEJBs.java:21)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:191)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 10 more
+
+server atlee.nttpe.com.tw ejbHomeName:BasicMdlEJBs.BasicBaseEJB.BasicBaseEJB
+
+
+2018/02/26 14:41:56---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:42)
+	at newtimes.DefinesEJBs.setEJBs(DefinesEJBs.java:21)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:191)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 10 more
+
+server atlee.nttpe.com.tw ejbHomeName:BasicMdlEJBs.BasicBaseEJB.BasicBaseEJB
+
+
+2018/02/26 14:42:01---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:34)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:199)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 9 more
+
+server atlee.nttpe.com.tw ejbHomeName:newtimesejb.TPE_MIS.TpeMisFunc
+
+
+2018/02/26 14:42:04---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:42)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:199)
+Caused by: java.net.ConnectException: t3://lee.nttpe.com.tw:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 9 more
+
+server atlee.nttpe.com.tw ejbHomeName:newtimesejb.TPE_MIS.TpeMisFunc
+
+
+2018/05/10 11:21:37---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://172.16.0.49:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:34)
+	at newtimes.DefinesEJBs.setEJBs(DefinesEJBs.java:21)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:191)
+Caused by: java.net.ConnectException: t3://172.16.0.49:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 10 more
+
+server at172.16.0.49 ejbHomeName:BasicMdlEJBs.BasicBaseEJB.BasicBaseEJB
+
+
+2018/05/10 11:21:39---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://172.16.0.49:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:42)
+	at newtimes.DefinesEJBs.setEJBs(DefinesEJBs.java:21)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:191)
+Caused by: java.net.ConnectException: t3://172.16.0.49:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 10 more
+
+server at172.16.0.49 ejbHomeName:BasicMdlEJBs.BasicBaseEJB.BasicBaseEJB
+
+
+2018/05/10 11:21:44---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://172.16.0.49:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:34)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:199)
+Caused by: java.net.ConnectException: t3://172.16.0.49:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 9 more
+
+server at172.16.0.49 ejbHomeName:newtimesejb.TPE_MIS.TpeMisFunc
+
+
+2018/05/10 11:21:47---->javax.naming.CommunicationException [Root exception is java.net.ConnectException: t3://172.16.0.49:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination]
+	at weblogic.jndi.internal.ExceptionTranslator.toNamingException(ExceptionTranslator.java:47)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.toNamingException(WLInitialContextFactoryDelegate.java:651)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:320)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:253)
+	at weblogic.jndi.WLInitialContextFactory.getInitialContext(WLInitialContextFactory.java:135)
+	at javax.naming.spi.NamingManager.getInitialContext(NamingManager.java:662)
+	at javax.naming.InitialContext.getDefaultInitCtx(InitialContext.java:243)
+	at javax.naming.InitialContext.init(InitialContext.java:219)
+	at javax.naming.InitialContext.<init>(InitialContext.java:195)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:90)
+	at info_ejb.WeblogicServiceLocator.locateServiceHome(WeblogicServiceLocator.java:42)
+	at newtimes.NewtimesApp.main(NewtimesApp.java:199)
+Caused by: java.net.ConnectException: t3://172.16.0.49:7001: Destination unreachable; nested exception is: 
+	java.net.ConnectException: Connection refused: connect; No available router to destination
+	at weblogic.rjvm.RJVMFinder.findOrCreate(RJVMFinder.java:200)
+	at weblogic.rjvm.ServerURL.findOrCreateRJVM(ServerURL.java:125)
+	at weblogic.jndi.WLInitialContextFactoryDelegate.getInitialContext(WLInitialContextFactoryDelegate.java:310)
+	... 9 more
+
+server at172.16.0.49 ejbHomeName:newtimesejb.TPE_MIS.TpeMisFunc
+
+
+2018/07/06 14:31:42---->java.lang.NullPointerException
+	at newtimes.preproduction.buyermakerselect.SelectBuyerMaker.isValid(SelectBuyerMaker.java:382)
+	at java.awt.Component.invalidateIfValid(Component.java:2815)
+	at java.awt.Component.setLocale(Component.java:1885)
+	at javax.swing.JComponent.<init>(JComponent.java:592)
+	at exgui.DataBindGUIObject.<init>(DataBindGUIObject.java:14)
+	at exgui.DataBindText.<init>(DataBindText.java:18)
+	at exgui.DataBindTextWithChecker.<init>(DataBindTextWithChecker.java:17)
+	at newtimes.preproduction.buyermakerselect.SelectBuyerMaker.<init>(SelectBuyerMaker.java:51)
+	at newtimes.basic.buyermaker.FieldsGuiPanel.<init>(FieldsGuiPanel.java:109)
+	at newtimes.basic.buyermaker.BuyerMakerEdit.<init>(BuyerMakerEdit.java:26)
+	at newtimes.basic.buyermaker.BuyerMakerList.jTable_mouseReleased(BuyerMakerList.java:120)
+	at newtimes.basic.buyermaker.BuyerMakerList$3.mouseReleased(BuyerMakerList.java:66)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:273)
+	at java.awt.Component.processMouseEvent(Component.java:6297)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3275)
+	at java.awt.Component.processEvent(Component.java:6062)
+	at java.awt.Container.processEvent(Container.java:2039)
+	at java.awt.Component.dispatchEventImpl(Component.java:4660)
+	at java.awt.Container.dispatchEventImpl(Container.java:2097)
+	at java.awt.Component.dispatchEvent(Component.java:4488)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4575)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4236)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4166)
+	at java.awt.Container.dispatchEventImpl(Container.java:2083)
+	at java.awt.Window.dispatchEventImpl(Window.java:2489)
+	at java.awt.Component.dispatchEvent(Component.java:4488)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:674)
+	at java.awt.EventQueue.access$400(EventQueue.java:81)
+	at java.awt.EventQueue$2.run(EventQueue.java:633)
+	at java.awt.EventQueue$2.run(EventQueue.java:631)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:87)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:647)
+	at java.awt.EventQueue$3.run(EventQueue.java:645)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:87)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:644)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:269)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:184)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:174)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:169)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:122)
+
+error at get record.{recDetail=record src tbl is:null;data contents are:MASTER_CO=AO LEI|TYPE=Maker|BYMKR_SEQ=278|BYMKR_BRIEF=AO LEI|BYMKR_TYPE=2|BYMKR_NAME=AO LEI SPORTING GOODS FACTORY|BYMKR_SEWING_SHOP_CODE=null|BYMKR_ADDR1=BUILDING 1, NO.3 INDUSTRIAL ZONE,|BYMKR_ADDR2=GONG MING TOWN, BAO AN DISTRICT,|BYMKR_ADDR3=SHEN ZHEN CITY, CHINA|BYMKR_ADDR4=null|BYMKR_TRADING_CAT=null|BYMKR_TEL1=075527106857|BYMKR_TEL2=null|BYMKR_FAX1=075527106817|BYMKR_FAX2=null|BYMKR_BOSS=null|BYMKR_CONTACT_PERSON=null|BYMKR_EMAIL=null|BYMKR_WEBSITE=null|BYMKR_WAREHOUSE=null|BYMKR_CHINESE_BRIEF=¶ø¹p|BYMKR_COMMISION=null|BYMKR_DISCOUNT=null|BYMKR_PAYTERM=null|BYMKR_PRICETERM=null|BYMKR_PRICETERM_DEST=null|BYMKR_CHECK_DIV=N|BYMKR_MASTER_COMPANY=278|BYMKR_BENEFICIARY=null|BYMKR_OLD=OU617|BYMKR_CNTY_CODE=CHINA|RECORD_CREATE_USER=COOPER GUH|RECORD_CREATE_DATE=2004-07-23 11:58:15.0|RECORD_DELETE_FLAG=1|RECORD_DELETE_DATE=null|RECORD_DELETE_USER=null|RECORD_MODIFY_DATE=2007-02-16 00:00:00.0|RECORD_MODIFY_USER=COOPER GUH|BYMKR_SEC_ADDR1=null|BYMKR_SEC_ADDR2=null|BYMKR_SEC_ADDR3=null|BYMKR_SEC_ADDR4=null|BYMKR_COMPLIANCE_AUDIT=null|BYMKR_CITY_NAME=null|BUY_COMM=null|MKR_DSCT_PER=null|MKR_DSCT_PC=null|MKR_DSCT_DZ=null|MKR_DSCT_LUMP_SUM=null|FOR_BEHALF=null|BYMKR_MULTI_TYPE=,2,|SHIP_RESPONSIBLE_BY=null|BUY_COMM_PC=null|BUY_COMM_DZ=null|BUY_COMM_LUMP_SUM=null|SHIP_BUY_COMM=null|SELECTABLE_CENTER=,003,,001,|BYMKR_HK_CODE=null|BYMKR_NAME2=null|CNTY_NAME=CHINA|CNTY_WEIGHT=3|RECORD_CREATE_USER=SYSTEM|RECORD_CREATE_DATE=2002-08-22 11:05:37.0|RECORD_DELETE_FLAG=1|RECORD_DELETE_DATE=null|RECORD_DELETE_USER=null|RECORD_MODIFY_DATE=2005-11-25 18:13:14.0|RECORD_MODIFY_USER=ALEX CHANG|CNTY_CODE=CN}
+
+
+2018/07/09 10:07:35---->java.lang.NullPointerException
+	at newtimes.preproduction.buyermakerselect.SelectBuyerMaker.isValid(SelectBuyerMaker.java:380)
+	at java.awt.Component.invalidateIfValid(Component.java:2815)
+	at java.awt.Component.setLocale(Component.java:1885)
+	at javax.swing.JComponent.<init>(JComponent.java:592)
+	at exgui.DataBindGUIObject.<init>(DataBindGUIObject.java:14)
+	at exgui.DataBindText.<init>(DataBindText.java:18)
+	at exgui.DataBindTextWithChecker.<init>(DataBindTextWithChecker.java:17)
+	at newtimes.preproduction.buyermakerselect.SelectBuyerMaker.<init>(SelectBuyerMaker.java:51)
+	at newtimes.basic.buyermaker.FieldsGuiPanel.<init>(FieldsGuiPanel.java:109)
+	at newtimes.basic.buyermaker.BuyerMakerEdit.<init>(BuyerMakerEdit.java:26)
+	at newtimes.basic.buyermaker.BuyerMakerList.jTable_mouseReleased(BuyerMakerList.java:120)
+	at newtimes.basic.buyermaker.BuyerMakerList$3.mouseReleased(BuyerMakerList.java:66)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:273)
+	at java.awt.Component.processMouseEvent(Component.java:6297)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3275)
+	at java.awt.Component.processEvent(Component.java:6062)
+	at java.awt.Container.processEvent(Container.java:2039)
+	at java.awt.Component.dispatchEventImpl(Component.java:4660)
+	at java.awt.Container.dispatchEventImpl(Container.java:2097)
+	at java.awt.Component.dispatchEvent(Component.java:4488)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4575)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4236)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4166)
+	at java.awt.Container.dispatchEventImpl(Container.java:2083)
+	at java.awt.Window.dispatchEventImpl(Window.java:2489)
+	at java.awt.Component.dispatchEvent(Component.java:4488)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:674)
+	at java.awt.EventQueue.access$400(EventQueue.java:81)
+	at java.awt.EventQueue$2.run(EventQueue.java:633)
+	at java.awt.EventQueue$2.run(EventQueue.java:631)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:87)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:647)
+	at java.awt.EventQueue$3.run(EventQueue.java:645)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:87)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:644)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:269)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:184)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:174)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:169)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:122)
+
+error at get record.{recDetail=record src tbl is:null;data contents are:MASTER_CO=TOPWAY|TYPE=Maker|BYMKR_SEQ=12266|BYMKR_BRIEF=TOPWAY|BYMKR_TYPE=2|BYMKR_NAME=TOPWAY EM TECHNOLOGY COMPANY LIMITED.|BYMKR_SEWING_SHOP_CODE=null|BYMKR_ADDR1=ROOM 1005A, BLOCK A, PHASE I,|BYMKR_ADDR2=HIGH-TECH PLAZA, TIAN'AN CYBER PARK,|BYMKR_ADDR3=FUTIAN DISTRICT, SHENZHEN, CHINA.|BYMKR_ADDR4=null|BYMKR_TRADING_CAT=null|BYMKR_TEL1=86-755-82369668|BYMKR_TEL2=null|BYMKR_FAX1=null|BYMKR_FAX2=null|BYMKR_BOSS=null|BYMKR_CONTACT_PERSON=null|BYMKR_EMAIL=null|BYMKR_WEBSITE=null|BYMKR_WAREHOUSE=null|BYMKR_CHINESE_BRIEF=null|BYMKR_COMMISION=null|BYMKR_DISCOUNT=null|BYMKR_PAYTERM=null|BYMKR_PRICETERM=null|BYMKR_PRICETERM_DEST=null|BYMKR_CHECK_DIV=N|BYMKR_MASTER_COMPANY=12266|BYMKR_BENEFICIARY=null|BYMKR_OLD=2019/07/30|BYMKR_CNTY_CODE=CHINA|RECORD_CREATE_USER=DAVID LEE|RECORD_CREATE_DATE=2012-08-31 00:00:00.0|RECORD_DELETE_FLAG=1|RECORD_DELETE_DATE=null|RECORD_DELETE_USER=null|RECORD_MODIFY_DATE=2018-07-04 00:00:00.0|RECORD_MODIFY_USER=DAVID LEE|BYMKR_SEC_ADDR1=null|BYMKR_SEC_ADDR2=null|BYMKR_SEC_ADDR3=null|BYMKR_SEC_ADDR4=null|BYMKR_COMPLIANCE_AUDIT=null|BYMKR_CITY_NAME=null|BUY_COMM=null|MKR_DSCT_PER=null|MKR_DSCT_PC=null|MKR_DSCT_DZ=null|MKR_DSCT_LUMP_SUM=null|FOR_BEHALF=null|BYMKR_MULTI_TYPE=,2,|SHIP_RESPONSIBLE_BY=null|BUY_COMM_PC=null|BUY_COMM_DZ=null|BUY_COMM_LUMP_SUM=null|SHIP_BUY_COMM=null|SELECTABLE_CENTER=,001,|BYMKR_HK_CODE=2020/01/26|BYMKR_NAME2=null|CNTY_NAME=CHINA|CNTY_WEIGHT=3|RECORD_CREATE_USER=SYSTEM|RECORD_CREATE_DATE=2002-08-22 11:05:37.0|RECORD_DELETE_FLAG=1|RECORD_DELETE_DATE=null|RECORD_DELETE_USER=null|RECORD_MODIFY_DATE=2005-11-25 18:13:14.0|RECORD_MODIFY_USER=ALEX CHANG|CNTY_CODE=CN}
+
+
+2018/07/09 10:10:43---->java.lang.NullPointerException
+	at newtimes.preproduction.buyermakerselect.SelectBuyerMaker.isValid(SelectBuyerMaker.java:380)
+	at java.awt.Component.invalidateIfValid(Component.java:2815)
+	at java.awt.Component.setLocale(Component.java:1885)
+	at javax.swing.JComponent.<init>(JComponent.java:592)
+	at exgui.DataBindGUIObject.<init>(DataBindGUIObject.java:14)
+	at exgui.DataBindText.<init>(DataBindText.java:18)
+	at exgui.DataBindTextWithChecker.<init>(DataBindTextWithChecker.java:17)
+	at newtimes.preproduction.buyermakerselect.SelectBuyerMaker.<init>(SelectBuyerMaker.java:51)
+	at newtimes.basic.division.DivisionEdit.<init>(DivisionEdit.java:39)
+	at newtimes.basic.division.DivisionList.jTable_mouseReleased(DivisionList.java:119)
+	at newtimes.basic.division.DivisionList$3.mouseReleased(DivisionList.java:72)
+	at java.awt.AWTEventMulticaster.mouseReleased(AWTEventMulticaster.java:273)
+	at java.awt.Component.processMouseEvent(Component.java:6297)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3275)
+	at java.awt.Component.processEvent(Component.java:6062)
+	at java.awt.Container.processEvent(Container.java:2039)
+	at java.awt.Component.dispatchEventImpl(Component.java:4660)
+	at java.awt.Container.dispatchEventImpl(Container.java:2097)
+	at java.awt.Component.dispatchEvent(Component.java:4488)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4575)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4236)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4166)
+	at java.awt.Container.dispatchEventImpl(Container.java:2083)
+	at java.awt.Window.dispatchEventImpl(Window.java:2489)
+	at java.awt.Component.dispatchEvent(Component.java:4488)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:674)
+	at java.awt.EventQueue.access$400(EventQueue.java:81)
+	at java.awt.EventQueue$2.run(EventQueue.java:633)
+	at java.awt.EventQueue$2.run(EventQueue.java:631)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:87)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:647)
+	at java.awt.EventQueue$3.run(EventQueue.java:645)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.AccessControlContext$1.doIntersectionPrivilege(AccessControlContext.java:87)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:644)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:269)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:184)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:174)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:169)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:122)
+
+error at get record.{recDetail=record src tbl is:null;data contents are:DIV_CODE=ASH13|DIV_NAME=ASH-AM|DIV_BYMKR_SEQ=82|DIV_WEIGHT=1|BYMKR_SEQ=82|BYMKR_BRIEF=ASHWORTH|BYMKR_NAME=ASHWORTH, INC.|BUY_COMM=5.00|BUY_COMM_PC=null|BUY_COMM_DZ=null|BUY_COMM_LUMP_SUM=null|MKR_DSCT_PER=null|MKR_DSCT_PC=null|MKR_DSCT_DZ=null|MKR_DSCT_LUMP_SUM=null|DIV_ADDR=null}
+
+

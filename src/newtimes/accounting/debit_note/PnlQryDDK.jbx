@@ -1,0 +1,25 @@
+[PropertyInfo]
+blueBkgWhiteCharLabel1,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+btnExit,JButton,false,false, , ,false,<default>
+btnQry,JButton,false,false, , ,false,<default>
+cbxBuyerMakerType,JComboBox,false,false, , ,false,<default>
+cbxDep,JComboBox,false,false, , ,false,<default>
+cbxType,JComboBox,false,false, , ,false,<default>
+centerCode,String,false,false, , ,false,<default>
+centerName,String,false,false, , ,false,<default>
+dbCbxDep,exgui.DataBindJCombobox,false,false, , ,false,<default>
+lblCenter,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblCenter1,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblCenter2,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblCenter4,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblCenterContext,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+lblDBNO1,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+lblDBNO2,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+selectBuyerMaker,SelectBuyerMaker,false,false, , ,false,<default>
+txtDateFrom,JTextField,false,false, , ,false,<default>
+txtDateTo,JTextField,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

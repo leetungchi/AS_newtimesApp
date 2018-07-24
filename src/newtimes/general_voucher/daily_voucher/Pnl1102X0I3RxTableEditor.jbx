@@ -1,0 +1,36 @@
+[PropertyInfo]
+blueBkgWhiteCharLabel1,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+border1,Border,false,false, , ,false,<default>
+btnAddNew,JButton,false,false, , ,false,<default>
+btnCancel,JButton,false,false, , ,false,<default>
+btnDelete,JButton,false,false, , ,false,<default>
+btnExit,JButton,false,false, , ,false,<default>
+btnUndo,JButton,false,false, , ,false,<default>
+btnUpdateTable,JButton,false,false, , ,false,<default>
+cbxType,JComboBox,false,false, , ,false,<default>
+pnlAddNew,JPanel,false,false, , ,false,<default>
+pnlListRush,exgui.ultratable.PagedTablePanel,false,false, , ,false,<default>
+txtAmt,JTextField,false,false, , ,false,<default>
+txtBuyer,JTextField,false,false, , ,false,<default>
+txtMaker,JTextField,false,false, , ,false,<default>
+txtPayDate,JTextField,false,false, , ,false,<default>
+txtVhAccCode,JTextField,false,false, , ,false,<default>
+txtVhCD,JTextField,false,false, , ,false,<default>
+txtVhDate,JTextField,false,false, , ,false,<default>
+txtVhNo,JTextField,false,false, , ,false,<default>
+txtVhSeq,JTextField,false,false, , ,false,<default>
+whiteBkgBlueCharLabel1,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+whiteBkgBlueCharLabel10,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+whiteBkgBlueCharLabel2,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+whiteBkgBlueCharLabel3,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+whiteBkgBlueCharLabel4,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+whiteBkgBlueCharLabel5,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+whiteBkgBlueCharLabel6,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+whiteBkgBlueCharLabel7,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+whiteBkgBlueCharLabel8,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+whiteBkgBlueCharLabel9,WhiteBkgBlueCharLabel,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

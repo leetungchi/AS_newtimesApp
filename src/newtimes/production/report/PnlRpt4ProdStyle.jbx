@@ -1,0 +1,34 @@
+[PropertyInfo]
+blueBkgWhiteCharLabel1,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+border1,Border,false,false, , ,false,<default>
+btnQry,JButton,false,false, , ,false,<default>
+buyers,SelectBuyerMaker[],false,false, , ,false,<default>
+cbxCenter,JComboBox,false,false, , ,false,<default>
+cbxCountry,JComboBox,false,false, , ,false,<default>
+cbxDep,JComboBox,false,false, , ,false,<default>
+cbxDep1,JComboBox,false,false, , ,false,<default>
+cbxDep2,JComboBox,false,false, , ,false,<default>
+cbxDep3,JComboBox,false,false, , ,false,<default>
+cbxDep4,JComboBox,false,false, , ,false,<default>
+cbxSeason,JComboBox,false,false, , ,false,<default>
+lblCenter,JLabel,false,false, , ,false,<default>
+lblCountry,JLabel,false,false, , ,false,<default>
+lblDDFrom,JLabel,false,false, , ,false,<default>
+lblSeason,JLabel,false,false, , ,false,<default>
+lblYear,JLabel,false,false, , ,false,<default>
+lblYear2,JLabel,false,false, , ,false,<default>
+makers,SelectBuyerMaker[],false,false, , ,false,<default>
+pnlBuyers,JPanel,false,false, , ,false,<default>
+pnlDeps,JPanel,false,false, , ,false,<default>
+pnlMakers,JPanel,false,false, , ,false,<default>
+titledBorder1,TitledBorder,false,false, , ,false,<default>
+titledBorder2,TitledBorder,false,false, , ,false,<default>
+titledBorder3,TitledBorder,false,false, , ,false,<default>
+txtDelFrom,JTextField,false,false, , ,false,<default>
+txtDelTo,JTextField,false,false, , ,false,<default>
+txtYear,JTextField,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

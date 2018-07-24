@@ -1,0 +1,55 @@
+[PropertyInfo]
+btnAddDummySRN,JButton,false,false, , ,false,<default>
+butnAdd,JButton,false,false, , ,false,<default>
+butnExit,JButton,false,false, , ,false,<default>
+butnModify,JButton,false,false, , ,false,<default>
+buttonGroup1,ButtonGroup,false,false, , ,false,<default>
+cbxCenter,JComboBox,false,false, , ,false,<default>
+cbxDep,JComboBox,false,false, , ,false,<default>
+dbCbxDepWithScWithPk,exgui.DataBindJCombobox,false,false, , ,false,<default>
+DbJcbxcbxCntr,exgui.DataBindJCombobox,false,false, , ,false,<default>
+DbJcbxcbxDep,exgui.DataBindJCombobox,false,false, , ,false,<default>
+dbTxtCustPo,exgui.DataBindTextWithChecker,false,false, , ,false,<default>
+dbTxtEtdFrom,exgui.DataBindTextWithChecker,false,false, , ,false,<default>
+dbTxtEtdTo,exgui.DataBindTextWithChecker,false,false, , ,false,<default>
+dbTxtSRN,exgui.DataBindTextWithChecker,false,false, , ,false,<default>
+dbTxtStyleStyle,exgui.DataBindTextWithChecker,false,false, , ,false,<default>
+depCbxDBGUI_index,int,false,false, , ,false,<default>
+doingDB2Gui,boolean,false,false, , ,false,<default>
+guis,java.util.List,false,false, , ,false,<default>
+jLabel1,JLabel,false,false, , ,false,<default>
+jPanel1,JPanel,false,false, , ,false,<default>
+jTextField10,JLabel,false,false, , ,false,<default>
+jTextField11,JLabel,false,false, , ,false,<default>
+jTextField12,JLabel,false,false, , ,false,<default>
+jTextField13,JLabel,false,false, , ,false,<default>
+jTextField3,JLabel,false,false, , ,false,<default>
+jTextField4,JLabel,false,false, , ,false,<default>
+jTextField5,JLabel,false,false, , ,false,<default>
+jTextField6,JLabel,false,false, , ,false,<default>
+jTextField7,JLabel,false,false, , ,false,<default>
+jTextField8,JLabel,false,false, , ,false,<default>
+jTextField9,JLabel,false,false, , ,false,<default>
+pnl2QryDepSc4Dummy,Pnl2ListDepForDummySRN,false,false, , ,false,<default>
+rdoListBySC,JRadioButton,false,false, , ,false,<default>
+rdoListBySI,JRadioButton,false,false, , ,false,<default>
+rdoListBySRN,JRadioButton,false,false, , ,false,<default>
+slkBuyer,SelectBuyerMaker,false,false, , ,false,<default>
+slkMaker,SelectBuyerMaker,false,false, , ,false,<default>
+textAreaStatus,JLabel,false,false, , ,false,<default>
+titledBorder1,TitledBorder,false,false, , ,false,<default>
+txtCustPo,JTextField,false,false, , ,false,<default>
+txtEDTto,JTextField,false,false, , ,false,<default>
+txtETDfrom,JTextField,false,false, , ,false,<default>
+txtSC_no,JTextField,false,false, , ,false,<default>
+txtSCno,JTextField,false,false, , ,false,<default>
+txtSrnNo,JTextField,false,false, , ,false,<default>
+txtStyleStyle,JTextField,false,false, , ,false,<default>
+usrCenCode,String,false,false, , ,false,<default>
+usrType,String,false,false, , ,false,<default>
+vct2dummySRN_SC,Vector,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

@@ -1,0 +1,11 @@
+[PropertyInfo]
+conf_file_at,String,false,false, , ,false,<default>
+JarFolderAt,String,false,false, , ,false,<default>
+packFrame,boolean,false,false, , ,false,<default>
+splasher,SplashScreen,false,false, , ,false,<default>
+VERSION,String,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

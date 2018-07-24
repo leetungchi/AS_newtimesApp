@@ -1,0 +1,72 @@
+[PropertyInfo]
+bgAmt,ButtonGroup,false,false, , ,false,<default>
+bgBuyer,ButtonGroup,false,false, , ,false,<default>
+bgCen,ButtonGroup,false,false, , ,false,<default>
+bgDep,ButtonGroup,false,false, , ,false,<default>
+bgMag,ButtonGroup,false,false, , ,false,<default>
+bgMill,ButtonGroup,false,false, , ,false,<default>
+bgProduct,ButtonGroup,false,false, , ,false,<default>
+bgProfit,ButtonGroup,false,false, , ,false,<default>
+cmboCen,JComboBox,false,false, , ,false,<default>
+cmboCenDF,JComboBox,false,false, , ,false,<default>
+cmboDep,JComboBox,false,false, , ,false,<default>
+cmboDepDF,JComboBox,false,false, , ,false,<default>
+cmboMagDF,JComboBox,false,false, , ,false,<default>
+cmboUsrType,JComboBox,false,false, , ,false,<default>
+dbJCBXBuyer,exgui.DataBindJCombobox,false,false, , ,false,<default>
+dbJCBXCen,exgui.DataBindJCombobox,false,false, , ,false,<default>
+dbJCBXCenDF,exgui.DataBindJCombobox,false,false, , ,false,<default>
+dbJCBXDep,exgui.DataBindJCombobox,false,false, , ,false,<default>
+dbJCBXDepDF,exgui.DataBindJCombobox,false,false, , ,false,<default>
+dbJCBXMagDF,exgui.DataBindJCombobox,false,false, , ,false,<default>
+dbJlistMag,exgui.DataBindJList,false,false, , ,false,<default>
+dlgBuyer,GetBuyerMaker,false,false, , ,false,<default>
+frame,Frame1,false,false, , ,false,<default>
+fromWhere,String,false,false, , ,false,<default>
+jScrollPane1,JScrollPane,false,false, , ,false,<default>
+jTextArea111,JTextArea,false,false, , ,false,<default>
+jTextField1,JTextField,false,false, , ,false,<default>
+jTextField10,JTextField,false,false, , ,false,<default>
+jTextField11,JTextField,false,false, , ,false,<default>
+jTextField12,JTextField,false,false, , ,false,<default>
+jTextField13,JTextField,false,false, , ,false,<default>
+jTextField14,JTextField,false,false, , ,false,<default>
+jTextField15,JTextField,false,false, , ,false,<default>
+jTextField16,JTextField,false,false, , ,false,<default>
+jTextField17,JTextField,false,false, , ,false,<default>
+jTextField18,JTextField,false,false, , ,false,<default>
+jTextField19,JTextField,false,false, , ,false,<default>
+jTextField2,JTextField,false,false, , ,false,<default>
+jTextField3,JTextField,false,false, , ,false,<default>
+jTextField4,JTextField,false,false, , ,false,<default>
+jTextField5,JTextField,false,false, , ,false,<default>
+jTextField6,JTextField,false,false, , ,false,<default>
+jTextField7,JTextField,false,false, , ,false,<default>
+jTextField8,JTextField,false,false, , ,false,<default>
+jTextField9,JTextField,false,false, , ,false,<default>
+listMag,JList,false,false, , ,false,<default>
+popBuyer,PopAndSelect2Text,false,false, , ,false,<default>
+rbAmt_N,JRadioButton,false,false, , ,false,<default>
+rbAmt_Y,JRadioButton,false,false, , ,false,<default>
+rbBuy_N,JRadioButton,false,false, , ,false,<default>
+rbBuy_Y,JRadioButton,false,false, , ,false,<default>
+rbCen_N,JRadioButton,false,false, , ,false,<default>
+rbCen_Y,JRadioButton,false,false, , ,false,<default>
+rbDep_N,JRadioButton,false,false, , ,false,<default>
+rbDep_Y,JRadioButton,false,false, , ,false,<default>
+rbMag_N,JRadioButton,false,false, , ,false,<default>
+rbMag_Y,JRadioButton,false,false, , ,false,<default>
+rbMill_N,JRadioButton,false,false, , ,false,<default>
+rbMill_Y,JRadioButton,false,false, , ,false,<default>
+rbProd_N,JRadioButton,false,false, , ,false,<default>
+rbProd_Y,JRadioButton,false,false, , ,false,<default>
+rbProf_N,JRadioButton,false,false, , ,false,<default>
+rbProf_Y,JRadioButton,false,false, , ,false,<default>
+txtUsrCode,JTextField,false,false, , ,false,<default>
+txtUsrName,JTextField,false,false, , ,false,<default>
+txtUsrPwd,JPasswordField,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

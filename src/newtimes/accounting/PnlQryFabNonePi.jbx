@@ -1,0 +1,32 @@
+[PropertyInfo]
+blueBkgWhiteCharLabel1,BlueBkgWhiteCharLabel,false,false, , ,false,<default>
+blueBkgWhiteCharLabel3,JLabel,false,false, , ,false,<default>
+border1,Border,false,false, , ,false,<default>
+border2,Border,false,false, , ,false,<default>
+btnQry,JButton,false,false, , ,false,<default>
+cbxCntr,JComboBox,false,false, , ,false,<default>
+cbxDep,JComboBox,false,false, , ,false,<default>
+dbCbxDep,DataBindJCombobox,false,false, , ,false,<default>
+DbJcbxcbxCntr,exgui.DataBindJCombobox,false,false, , ,false,<default>
+dbTxtDateBgn,DataBindTextWithChecker,false,false, , ,false,<default>
+dbTxtDateEnd,DataBindTextWithChecker,false,false, , ,false,<default>
+dbTxtDatePointDate,DataBindTextWithChecker,false,false, , ,false,<default>
+doingDB2Gui,boolean,false,false, , ,false,<default>
+jLabel1,JLabel,false,false, , ,false,<default>
+jLabel2,JLabel,false,false, , ,false,<default>
+jLabel3,JLabel,false,false, , ,false,<default>
+jLabel4,JLabel,false,false, , ,false,<default>
+pnlDuriation,JPanel,false,false, , ,false,<default>
+titledBorder1,TitledBorder,false,false, , ,false,<default>
+titledBorder2,TitledBorder,false,false, , ,false,<default>
+txtDateBgn,JTextField,false,false, , ,false,<default>
+txtDateEnd,JTextField,false,false, , ,false,<default>
+txtPointDate,JTextField,false,false, , ,false,<default>
+ucbx,JComboBox,false,false, , ,false,<default>
+ulbl,JLabel,false,false, , ,false,<default>
+usr,String[],false,false, , ,false,<default>
+[IconNames]
+
+
+
+

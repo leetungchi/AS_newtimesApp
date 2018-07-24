@@ -1,0 +1,18 @@
+[PropertyInfo]
+btnCtCsv,JButton,false,false, , ,false,<default>
+btnDtlCsv,JButton,false,false, , ,false,<default>
+btnExit,JButton,false,false, , ,false,<default>
+btnScCsv,JButton,false,false, , ,false,<default>
+btnUpload,JButton,false,false, , ,false,<default>
+jLabel1,JLabel,false,false, , ,false,<default>
+jLabel2,JLabel,false,false, , ,false,<default>
+jLabel3,JLabel,false,false, , ,false,<default>
+panel1,JPanel,false,false, , ,false,<default>
+txtCtCsvPath1,JTextField,false,false, , ,false,<default>
+txtDtlCsvPath,JTextField,false,false, , ,false,<default>
+txtScCsvPath,JTextField,false,false, , ,false,<default>
+[IconNames]
+
+
+
+

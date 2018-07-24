@@ -1,0 +1,12 @@
+       Util.ExceptionLog.setLogPath("c:\\newtimes.log");
+       DataBase.Encoders.OracleEncoder encoderE=new DataBase.Encoders.OracleEncoder();
+       Databsae ntDB = new Database("jdbc:oracle:thin:@db.nttpe.com.tw:1521:nts1","newtimes","newtimes","oracle.jdbc.driver.OracleDriver",5,encoderE);
+       TableInterface seqTbl = new CommonTable("info_seq",ntDB,"seq");
+       AutoIncInterface ict=new OracleAutoIncTable(seqTbl,"seq_color");
+       Record rec=ict.newRecord();
+       rec.set("name","又來了");
+       long getSn=ict.insertRecord(rec,"seq");
+       System.out.println("get value is:"+getSn);
+       rec.set("name","你卡好咧");
+       getSn=ict.insertRecord(rec,"seq");
+       System.out.println("finally record is :"+rec.toString());
